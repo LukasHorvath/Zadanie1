@@ -1,1 +1,5 @@
 Využitie data miningových techník v inteligentných domácnostiach
+
+Internet vecí nám v súčasnosti zasahuje do života každodenne. Aktuálnym trendom je, aby boli všetky alebo väčšina zariadení v domácnosti autonómna, k čomu je potrebné, aby tieto zariadenia dokázali neustále získavať nové dáta z prostredia. 
+Takto vznikajú veľké súbory dát, ktoré je potrebné ďalej spracovať. Práve tu je možné využiť data miningové techniky na získanie užitočných informácií, pomocou ktorých môžeme zariadenia inteligentných domácností ďalej vylepšovať.
+Cieľom práce je vytvoriť utriedený prehľad o možnostiach využitia data miningových techník v oblasti inteligentných domácností. 
